@@ -2,6 +2,8 @@ MyBot
 Makefile
 *.hlt
 *.log
+*.bat
+*.sh
 *~
 *.pyc
 *.pyo
