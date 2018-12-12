@@ -1,9 +1,7 @@
-MyBot
+gelberB
 Makefile
 *.hlt
 *.log
-*.bat
-*.sh
 *~
 *.pyc
 *.pyo
