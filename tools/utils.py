@@ -1,4 +1,3 @@
 import hlt
 
-def find_max_halite(ship_point, halite_map, road_map):
-    pass
+def find_max_halite(ship, halite_map, booked_halite_points, radius = 1):
